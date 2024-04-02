@@ -1,0 +1,45 @@
+.dial {
+    height: 400px;
+    width: 400px;
+  }
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#countNumber {
+    display: block;
+    text-align: center;
+    border: none;
+    font-size: 3rem;
+    width: 8rem;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    font-size: 2rem;
+    color: #494D5F;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+button:disabled,:focus {
+    color: #6a9e8d; 
+}
+
+
+#controls {
+ position: absolute;
+ top: 0;
+ left: 0;
+ right: 0;
+ bottom: 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
