@@ -1,6 +1,7 @@
 .dial {
     height: 400px;
     width: 400px;
+    background-color: transparent;
   }
 
 body {
