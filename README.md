@@ -23,9 +23,9 @@ Starting the Countdown: Click the 'Start' button to initiate the countdown. The 
 Pausing and Resuming: Use the 'Pause' button to halt the countdown as needed. Press 'Start' to continue from where you left off.
 
 # Contact
-Olga: gos08.08.23@gmail.com\
+Olga: gos08.08.23@gmail.com 
 
-Project links:\
+Project links: \
 https://github.com/gos0808/Timer          
 https://timee-keeper.netlify.app
 
